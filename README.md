@@ -18,9 +18,7 @@ Before running the project, Docker Desktop must be installed and running.
 
 Then, from the project folder, run:
 
-```bash
 docker compose up --build
-```
 
 ## Access the services
 

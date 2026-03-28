@@ -30,10 +30,6 @@ Once the containers are running:
 * Prometheus → http://localhost:9090
 * Grafana → http://localhost:3000
 
-Grafana login:
-
-* Username: admin
-* Password: admin
 
 ## What can be observed
 
@@ -54,8 +50,9 @@ During the setup, several issues appeared related to Docker configuration and se
 The experience also showed that even a simple setup can represent the core idea of observability, while at the same time exposing the gap between a basic implementation and a production environment where security, scalability and monitoring strategies become more complex.
 
 ## Dashboard Example
+<img width="955" height="514" alt="image" src="https://github.com/user-attachments/assets/3d284fec-1947-4049-a259-971e143441c9" />
 
-(Add your screenshot here)
+
 
 ## Technologies used
 
